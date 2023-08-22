@@ -27,3 +27,22 @@ El controlador Rest lo mapearemos con la URL localhost:8080/fruta y mapearemos e
 Usaremos la base de datos MongoDB. Las propiedades de conexion las colocaremos en el fichero de configuración de Sprint Boot.
 
 Nota : AL añadir datos a una colección desde la aplicación MongoDB COMPAS nos lo genera con un Id tipo String. Para que no haya conflictos el Id de nuestro bean Fruta tambien lo hemos definido tipo String.
+
+
+## Juego de pruebas con Postam
+
+
+### 1. Alta frutas
+
+
+
+
+
+
+
+
+
+
+
+
+
