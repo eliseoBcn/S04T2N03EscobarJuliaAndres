@@ -1,4 +1,4 @@
-package cat.itacademy.barcelonactiva.escobarjulia.andres.s04.t01.n03;
+package cat.itacademy.barcelonactiva.escobarjulia.andres.s04.t02.n03;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
