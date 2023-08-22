@@ -6,6 +6,7 @@ Previamente crearemos un proyecto Spring Boot con las dependencias tipicas corre
 A continuación nos centraremos en definir las funcionalidades que implementará el aplicativo de este repositorio .
 
 ## El domain.
+
 Usaremos un único Bean denominado Fruta con los siguientes campos :
 
 * id de tipo String
